@@ -1,0 +1,20 @@
+body{
+    background: url(img/back_img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.main{
+    font-size: 70px;
+    margin-top: 230px;
+}
+
+.log_in{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    margin-left: 210px;
+    margin-top: 50;
+}
